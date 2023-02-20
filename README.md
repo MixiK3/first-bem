@@ -1,7 +1,8 @@
 # first-bem
 # 1. header
 div.header>img.header__img+ul.header__ul>li.header__ul__li*6
-![2023-02-20_00-32-29](https://user-images.githubusercontent.com/101597766/219976486-ba042331-9327-4e52-a945-cf813d24695c.png)
+
+![2023-02-20_14-07-56](https://user-images.githubusercontent.com/101597766/220088521-b5a267f8-a505-4e32-8c39-39dde069b713.png)
 
 
 
