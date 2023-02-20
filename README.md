@@ -14,4 +14,5 @@ form.form-expenses>h2.form-expenses__h2+ul.form-expenses__ul>li.form-expenses__u
 
 # 3.cards
 div.cards>ul.cards__ul+(li.cards__ul__li>h2.cards__ul__li__h2)+(li.cards__ul__li>img.cards__ul__li__img+p.cards__ul__li__p)*8
-![2023-02-20_14-04-40](https://user-images.githubusercontent.com/101597766/220087923-b1d1c43a-9673-4dfa-9b63-8b9b6f52d68e.png)
+
+![2023-02-20_14-07-02](https://user-images.githubusercontent.com/101597766/220088359-06d8efa3-a525-441e-bcd0-c0f62547b7c8.png)
