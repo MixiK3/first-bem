@@ -1,4 +1,6 @@
 # first-bem
+0.body
+(.head>.head__eyes>.head__eyes_green)+(.arms>.arms-left__arm>.arms-left__arm_tatoo)+(.arms>.arms-rigth__arm>.arms-rigth__arm_ring)+.legs>.legs__leg>.legs__leg_muscular
 # 1. header
 div.header>img.header__img+ul.header__ul>li.header__ul__li*6
 
