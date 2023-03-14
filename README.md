@@ -24,6 +24,6 @@ form.form>h2.form__title+(div.form__content>(label.form_label>input.form__field)
 
 
 # 4.footer
-div.footer>(div.footer__addres>img.footer__addres__img+p.footer__addres__p)+(div.footer__social>img.footer__social__img*3)+(div.footer__contacts>(p.footer__contacts__p+a.footer__contacts__a)*2)+p.footer__p__private
+div.footer>(div.footer__addres>img.footer__logo+p.footer__content)+(div.footer__social>img.footer__icons*3)+(div.footer__contacts>(p.footer__people+a.footer__mail)*2)+a.footer__private
 
 ![2023-02-20_14-40-04](https://user-images.githubusercontent.com/101597766/220096720-f35940fc-6e59-489d-99d1-9de7deeeeb2e.png)
