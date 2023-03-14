@@ -15,10 +15,11 @@ form.form>h2.form__title+(div.form__content>(label.form_label>input.form__field)
 
 
 
-# 3.cards
-div.cards>ul.cards__ul+(li.cards__ul__li>h2.cards__ul__li__h2)+(li.cards__ul__li>img.cards__ul__li__img+p.cards__ul__li__p)*8
+# 3.card
+.card>img.card__svg+p.card__content
 
-![2023-02-20_14-07-02](https://user-images.githubusercontent.com/101597766/220088359-06d8efa3-a525-441e-bcd0-c0f62547b7c8.png)
+![2023-03-15_00-05-04](https://user-images.githubusercontent.com/101597766/225136615-ea856818-a6fa-4872-a822-5edfc2d7fd11.png)
+
 
 
 
