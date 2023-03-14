@@ -9,7 +9,7 @@ div.header>img.header__img+nav.header__navigation>ul.header__list>(li.header_lin
 
 
 # 2.form
-form.form-expenses>h2.form-expenses__h2+ul.form-expenses__ul>li.form-expenses__ul__li*5+button.form-expenses__button_focused
+form.form>h2.form__title+(div.form__content>(label.form_label>input.form__field)*5)+button.form__button
 
 ![2023-02-20_00-47-30](https://user-images.githubusercontent.com/101597766/219977137-8cf29469-db73-4372-a3de-2b93ebcb3563.png)
 
